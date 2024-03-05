@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.local24.trainapp.rest.resource.TestTrainResource
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.274 s -- in com.local24.trainapp.rest.resource.TestTrainResource
